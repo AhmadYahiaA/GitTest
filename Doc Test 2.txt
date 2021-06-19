@@ -1,0 +1,8 @@
+Important Notice
+Due to the nature of wireless communications, transmission and reception of data can never be guaranteed. Data
+may be delayed, corrupted (i.e., have errors) or be totally lost. Although significant delays or losses of data are rare
+when wireless devices such as the router is used in a normal manner with a well-constructed network, the router
+should not be used in situations where failure to transmit or receive data could result in damage of any kind to the
+user or any other party, including but not limited to personal injury, death, or loss of property. Robustel accepts no
+responsibility for damages of any kind resulting from delays or errors in data transmitted or received using the
+router, or for failure of the router to transmit or receive such data.

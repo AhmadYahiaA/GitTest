@@ -1,0 +1,16 @@
+INTRODUCTION
+The Robustel Industrial Dual SIM Cellular VPN Router (R3000 Lite) is a rugged cellular
+router offering state-of-the-art mobile connectivity for machine to machine (M2M)
+applications.
+R3000 Lite is a powerful router developed from RobustOS, a Robustel self-developed
+and Linux-based operating system which is designed to be used in Robustel devices. The
+RobustOS includes basic networking features and protocols providing customers with a
+very good user experience. Meanwhile, Robustel offers a Software Development Kit
+(SDK) for partners and customers to allow additional customization by using C, Python
+or Java. It also provides rich Apps to meet fragmented IoT market demands.
+Robustel is a leading global industrial IoT/M2M hardware and solution provider. Since
+its establishment in 2010 in Guangzhou, China, Robustel has been focusing on designing
+and manufacturing industrial cellular routers, gateways, modems, cloud platforms and
+E2E solutions. In order to support global business in more than 100+ countries and
+regions, Robustel has set up local offices in Germany, Australia, the Netherlands, Japan
+and Hong Kong.
